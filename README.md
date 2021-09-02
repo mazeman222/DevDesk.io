@@ -1,4 +1,4 @@
-# DevDesk.io
+# DevDesk.io Frontend UI
 An online platform to learn where to become a dev.
 ![Homepage](https://user-images.githubusercontent.com/40785452/131905537-dcf4a1f4-6285-45f9-a2e7-481b0aa13ac4.jpg)
 ![About](https://user-images.githubusercontent.com/40785452/131905526-e921678f-1f02-4af8-bc92-f73cdccdfc9b.jpg)
